@@ -1,11 +1,7 @@
-Python 3.10.2 (tags/v3.10.2:a58ebcc, Jan 17 2022, 14:12:15) [MSC v.1929 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license()" for more information.
 #!/usr/bin/env python3
-
 # File: constants.py
 # Description: Basic program constants.
 # Author: Pavel Benáček <pavel.benacek@gmail.com>
-
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
@@ -28,7 +24,7 @@ BWIDTH     = 15
 # Height of the shape block
 BHEIGHT    = 15
 # Width of the line around the block
-MESH_WIDTH = 4
+MESH_WIDTH = 3
 
 # Configuration of the player board
 # Board line height
@@ -69,15 +65,3 @@ POINT_MARGIN      = 10
 
 # Font size for all strings (score, pause, game over)
 FONT_SIZE           = 25
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
